@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C9A025AE-1069-485D-B8D9-60BFF506CBD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="School/Controllers/SchoolController.cs">
+    <Files>
+      <File FileName="School/Controllers/SchoolController.cs" Line="36" Column="64" />
+      <File FileName="School/Models/School.cs" Line="11" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True">
+            <Node name="School" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SchoolController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.School FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

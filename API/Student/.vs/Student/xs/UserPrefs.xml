@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DF3A11D5-EF3D-42C4-B4F4-883C3A83DAE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student/Models/Student.cs">
+    <Files>
+      <File FileName="Student/Controllers/StudentController.cs" Line="40" Column="30" />
+      <File FileName="Student/Models/Student.cs" Line="12" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Student" expanded="True">
+            <Node name="Student" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Student FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

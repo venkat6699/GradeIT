@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Venkatesh_Yandapalli/.dotnet/store/|arch|/|tfm|",
+      "/Users/Venkatesh_Yandapalli/.nuget/packages"
+    ]
+  }
+}

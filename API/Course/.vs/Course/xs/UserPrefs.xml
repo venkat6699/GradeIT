@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EB60EB34-CCD2-4A9A-BD23-260EDF97049B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Course PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Course/Controllers/CourseController.cs">
+    <Files>
+      <File FileName="Course/Controllers/CourseController.cs" Line="36" Column="64" />
+      <File FileName="Course/Models/Course.cs" Line="11" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Course" expanded="True">
+            <Node name="Course" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

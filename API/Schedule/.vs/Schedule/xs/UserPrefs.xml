@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5CA616A4-DE28-43E7-AD26-BD13F209FF13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Schedule/Controllers/ScheduleController.cs">
+    <Files>
+      <File FileName="Schedule/Controllers/ScheduleController.cs" Line="36" Column="68" />
+      <File FileName="Schedule/Models/Schedule.cs" Line="11" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Schedule" expanded="True">
+            <Node name="Schedule" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ScheduleController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Schedule FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
